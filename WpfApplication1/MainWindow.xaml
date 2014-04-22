@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="302.37">
     <Grid>
-        
+        <Canvas HorizontalAlignment="Left" Height="169" Margin="50,61,0,0" VerticalAlignment="Top" Width="187"/>
+
     </Grid>
 </Window>
